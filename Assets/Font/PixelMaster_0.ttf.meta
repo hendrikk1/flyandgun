@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9e2cb72aee945bc4eb1e41ff00ba62c8
+timeCreated: 1493712589
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PixelMaster
+  fontNames:
+  - PixelMaster
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

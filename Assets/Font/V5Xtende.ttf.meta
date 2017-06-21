@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2565b051e489f9e49a7bac368a690cc9
+timeCreated: 1493712589
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: V5 Xtender
+  fontNames:
+  - V5 Xtender
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
